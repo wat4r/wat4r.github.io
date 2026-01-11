@@ -1,3 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wat4r Blog</title><link>https://wat4r.github.io/</link><description>Recent content on Wat4r Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2024 23:32:38 +0800</lastBuildDate><atom:link href="https://wat4r.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>内存攻防-内存版Neo-reGeorg代理</title><link>https://wat4r.github.io/posts/memory-neoreg/</link><pubDate>Thu, 25 Jan 2024 23:32:38 +0800</pubDate><guid>https://wat4r.github.io/posts/memory-neoreg/</guid><description>内存攻防-内存版Neo-reGeorg代</description></item><item><title>Hello World</title><link>https://wat4r.github.io/posts/hello-world/</link><pubDate>Tue, 02 May 2023 14:51:38 +0800</pubDate><guid>https://wat4r.github.io/posts/hello-world/</guid><description>听说开头先来个Hello World是惯例</description></item><item><title>Links</title><link>https://wat4r.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wat4r.github.io/links/</guid><description>Wat4r github
-Wat4r email
-Wat4r blog</description></item><item><title>Projects</title><link>https://wat4r.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wat4r.github.io/projects/</guid><description>dpapitk - 基于Golang实现的DPAPI离线</description></item><item><title>Tools</title><link>https://wat4r.github.io/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wat4r.github.io/tools/</guid><description>AADDecryptor - Windows AAD BrokerPlugin token 缓存文件（.def）解密工具</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wat4r Blog</title><link>https://wat4r.github.io/</link><description>Recent content on Wat4r Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 11 Jan 2026 20:19:44 +0800</lastBuildDate><atom:link href="https://wat4r.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>PHP反序列化漏洞总结</title><link>https://wat4r.github.io/posts/php-deserialization-vulnerability/</link><pubDate>Sun, 11 Jan 2026 20:19:44 +0800</pubDate><guid>https://wat4r.github.io/posts/php-deserialization-vulnerability/</guid><description>&lt;h1 id="php反序列化漏洞总结"&gt;PHP反序列化漏洞总结&lt;/h1&gt;
+&lt;h2 id="0x01-简介"&gt;0x01 简介&lt;/h2&gt;
+&lt;p&gt;PHP 的序列化（Serialization）和反序列化（Unserialization）是将 PHP 数据结构（如数组、对象等）转换为字符串格式，以及将该字符串还原回原始数据结构的过程。&lt;/p&gt;</description></item><item><title>内存攻防-内存版Neo-reGeorg代理</title><link>https://wat4r.github.io/posts/memory-neoreg/</link><pubDate>Thu, 25 Jan 2024 23:32:38 +0800</pubDate><guid>https://wat4r.github.io/posts/memory-neoreg/</guid><description>&lt;h1 id="内存攻防-内存版neo-regeorg代理"&gt;内存攻防-内存版Neo-reGeorg代理&lt;/h1&gt;
+&lt;h2 id="0x00-简介"&gt;0x00 简介&lt;/h2&gt;
+&lt;p&gt;​		&lt;a href="https://github.com/L-codes/Neo-reGeorg"&gt;Neo-reGeorg&lt;/a&gt; 是一个基于Python开发的HTTP正向隧道工具，它是对原始 &lt;a href="https://github.com/sensepost/reGeorg"&gt;reGeorg&lt;/a&gt; 工具的改进和重构，主要用于在受限的环境中建立一个从目标内网到攻击者控制服务器的隐蔽通道。&lt;/p&gt;</description></item><item><title>Hello World</title><link>https://wat4r.github.io/posts/hello-world/</link><pubDate>Tue, 02 May 2023 14:51:38 +0800</pubDate><guid>https://wat4r.github.io/posts/hello-world/</guid><description>&lt;p&gt;听说开头先来个Hello World是惯例！&lt;/p&gt;</description></item><item><title>Links</title><link>https://wat4r.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wat4r.github.io/links/</guid><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/wat4r"&gt;Wat4r github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="mailto:wat4r@outlook.com"&gt;Wat4r email&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://wat4r.github.io"&gt;Wat4r blog&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Projects</title><link>https://wat4r.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wat4r.github.io/projects/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/wat4r/dpapitk"&gt;dpapitk&lt;/a&gt; - 基于Golang实现的DPAPI离线解密库。&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Tools</title><link>https://wat4r.github.io/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wat4r.github.io/tools/</guid><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/wat4r/AADDecryptor"&gt;AADDecryptor&lt;/a&gt; - Windows AAD BrokerPlugin token 缓存文件（.def）解密工具&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/wat4r/ChromeDecryptor"&gt;ChromeDecryptor&lt;/a&gt; - Chrome/Edge浏览器密码和Cookies离线解密工具&lt;/p&gt;</description></item></channel></rss>
